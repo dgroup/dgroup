@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/lazylead)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flazylead&screen_name=lazylead)
 
-I'm a developer, Team Lead and Technical Manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018."
-
+I'm a developer, Team Lead and Technical Manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018." <br />
 <a href="https://www.yegor256.com/2017/10/24/award-2018.html">
   <img src="https://github.com/dgroup/docker-unittests/blob/master/docs/winner-dgroup.png?raw=true" height=45px alt='Winner Badge'/>
 </a>
+
 
 I’m currently working on a [lazylead](https://github.com/dgroup/lazylead) which allows to eliminate annoying daily routine work related to ticketing systems.
 Ticketing systems (Github, Jira, etc.) are strongly integrated into our processes and everyone understands their necessity. As soon as a developer becomes a lead/technical manager, he or she faces a set of routine tasks that are related to ticketing work. On large projects this becomes a problem, more and more you spend time running around on dashboards and tickets, looking for incorrect deviations in tickets and performing routine tasks instead of solving technical problems.
