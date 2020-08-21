@@ -12,8 +12,8 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead) whic
 Ticketing systems (Github, Jira, etc.) are strongly integrated into our processes and everyone understands their necessity. As soon as a developer becomes a lead/technical manager, he or she faces a set of routine tasks that are related to ticketing work. On large projects this becomes a problem, more and more you spend time running around on dashboards and tickets, looking for incorrect deviations in tickets and performing routine tasks instead of solving technical problems.
 
 Welcome to <a href="https://t.me/lazyleads" alt="Telegram Follow">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height=20px alt='Winner Badge'/>
-</a> for a discussion/suggestions/news.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height=15px alt='Winner Badge'/>
+</a> chat for a discussion/suggestions/news.
 
 
 ### Connect with me:
