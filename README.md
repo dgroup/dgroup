@@ -18,9 +18,11 @@ Welcome to <a href="https://t.me/lazyleads" alt="Telegram Follow">
 
 ### Connect with me:
 
+[<img align="left" alt="dgroup | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="dgroup | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dgroup | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="dgroup | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br />
 
@@ -41,6 +43,7 @@ Welcome to <a href="https://t.me/lazyleads" alt="Telegram Follow">
 
 <img align="left" alt="dgroup's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
 
+[gmail]: mailto:yurii.dubinka@gmail.com
 [twitter]: https://twitter.com/lazylead
 [telegram]: https://t.me/lazylead
 [linkedin]: https://www.linkedin.com/in/lazylead
