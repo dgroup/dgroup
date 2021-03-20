@@ -8,11 +8,11 @@ I'm a developer, team lead and technical manager, open-source contributor, autho
 </a>
 
 
-I’m currently working on a [lazylead](https://github.com/dgroup/lazylead) which allows to eliminate annoying daily routine work related to ticketing systems.
-Join to our channel here <a href="https://t.me/lazyleads" alt="Telegram Follow">
+I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Join to our channel <a href="https://t.me/lazyleads" alt="Telegram Follow">here</a> <a href="https://t.me/lazyleads" alt="Telegram Follow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height=15px alt='Winner Badge'/>
 </a>.
 
+[![lazylead/readme.md](https://github-readme-stats.vercel.app/api/pin/?username=dgroup&repo=lazylead)](https://github.com/dgroup/lazylead)
 
 ### Connect with me:
 
@@ -39,7 +39,7 @@ Join to our channel here <a href="https://t.me/lazyleads" alt="Telegram Follow">
 <br />
 <br />
 
-<img align="left" alt="dgroup's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
+<img alt="dgroup's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
 
 [gmail]: mailto:yurii.dubinka@gmail.com
 [twitter]: https://twitter.com/lazylead
