@@ -41,6 +41,9 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 
 <img alt="dgroup's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
 
+
+<img alt="dgroup's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgroup&layout=compact&hide_border=true" />
+
 [gmail]: mailto:yurii.dubinka@gmail.com
 [twitter]: https://twitter.com/lazylead
 [telegram]: https://t.me/lazylead
