@@ -20,6 +20,7 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 [<img align="left" alt="dgroup | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dgroup | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="dgroup | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dgroup | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -48,3 +49,4 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 [twitter]: https://twitter.com/lazylead
 [telegram]: https://t.me/lazylead
 [linkedin]: https://www.linkedin.com/in/lazylead
+[instagram]: https://www.instagram.com/thelazylead
