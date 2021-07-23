@@ -1,6 +1,6 @@
 ### Hi there, I'm Yurii - aka [dgroup]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/lazylead)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flazylead&screen_name=lazylead)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=dgroup.dgroup" alt="visitor badge"/> [![Twitter Follow](https://img.shields.io/twitter/follow/lazylead)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flazylead&screen_name=lazylead)
 
 I'm a developer, team lead and technical manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018." <br />
 <a href="https://www.yegor256.com/2017/10/24/award-2018.html">
