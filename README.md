@@ -19,6 +19,7 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 [<img align="left" alt="dgroup | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="dgroup | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dgroup | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="dgroup | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 [<img align="left" alt="dgroup | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="dgroup | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -49,5 +50,6 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 [gmail]: mailto:yurii.dubinka@gmail.com
 [twitter]: https://twitter.com/lazylead
 [telegram]: https://t.me/lazylead
+[skype]: https://join.skype.com/invite/ElpYqjtYzThr
 [linkedin]: https://www.linkedin.com/in/lazylead
 [instagram]: https://www.instagram.com/thelazylead
