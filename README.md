@@ -43,6 +43,8 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 
 <img alt="dgroup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
 
+<img alt="dgroup's Off-work Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dgroup&layout=compact&hide_border=true&custom_title=Off-work+activities+for+past+week" />
+
 <img alt="dgroup's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgroup&layout=compact&hide_border=true" />
 
 ![](https://github-profile-trophy.vercel.app/?username=dgroup)
