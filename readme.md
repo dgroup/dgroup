@@ -7,7 +7,7 @@
 [<img align="left" alt="dgroup | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 [<img align="left" alt="dgroup | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br />
 <br />
 
 I'm a developer, tech. lead and technical project manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018." <br />
