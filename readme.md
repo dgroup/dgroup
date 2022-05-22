@@ -3,9 +3,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dgroup.dgroup" alt="visitor badge"/> [![Twitter Follow](https://img.shields.io/twitter/follow/lazylead)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flazylead&screen_name=lazylead)
 
 I'm a developer, tech. lead and technical project manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018." <br />
-<a href="https://www.yegor256.com/2017/10/24/award-2018.html">
-  <img src="https://github.com/dgroup/docker-unittests/blob/master/docs/winner-dgroup.png?raw=true" height=45px alt='Winner Badge'/>
-</a>
 
 
 I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Join to our channel <a href="https://t.me/lazyleads" alt="Telegram Follow">here</a> <a href="https://t.me/lazyleads" alt="Telegram Follow">
@@ -29,7 +26,7 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Oracle SQL" width="26px" src="https://avatars3.githubusercontent.com/u/4430336" />
 <img align="left" alt="PL/SQL" width="26px" src="https://my.trocaire.edu/app/uploads/2016/12/pl-sql.png" />
@@ -43,7 +40,7 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 
 <img alt="dgroup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
 
-<img alt="dgroup's Off-work Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dgroup&layout=compact&hide_border=true&custom_title=Off-work+activities+for+past+week" />
+<!-- <img alt="dgroup's Off-work Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dgroup&layout=compact&hide_border=true&custom_title=Off-work+activities+for+past+week" /> -->
 
 <img alt="dgroup's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgroup&layout=compact&hide_border=true" />
 
