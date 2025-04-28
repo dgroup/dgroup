@@ -1,7 +1,5 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=dgroup.dgroup" alt="visitor badge"/> 
 
-<br />
-<br />
 
 I'm a developer, tech. lead and technical project manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018." <br />
 
