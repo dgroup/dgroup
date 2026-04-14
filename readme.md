@@ -3,14 +3,12 @@
 
 I'm a developer, tech. lead and technical project manager, open-source contributor, author of few libs in maven central and ruby gems, won the "Software Quality Award, 2018." <br />
 
+<!--
 
 I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Join to our channel <a href="https://t.me/lazyleads" alt="Telegram Follow">here</a> <a href="https://t.me/lazyleads" alt="Telegram Follow">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" height=15px alt='Winner Badge'/>
 </a>.
-
-[![lazylead/readme.md](https://github-readme-stats.vercel.app/api/pin/?username=dgroup&repo=lazylead)](https://github.com/dgroup/lazylead)
-
-
+--> 
 
 ### Languages and Tools:
 
@@ -26,10 +24,10 @@ I’m currently working on a [lazylead](https://github.com/dgroup/lazylead). Joi
 <br />
 <br />
 
-<img alt="dgroup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" />
+<!-- <img alt="dgroup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dgroup&show_icons=true&hide_border=true" /> -->
 
 <!-- <img alt="dgroup's Off-work Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?username=dgroup&layout=compact&hide_border=true&custom_title=Off-work+activities+for+past+week" /> -->
 
-<img alt="dgroup's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgroup&layout=compact&hide_border=true" />
+<!-- <img alt="dgroup's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgroup&layout=compact&hide_border=true" /> -->
 
-![](https://github-profile-trophy.vercel.app/?username=dgroup)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=dgroup) -->
